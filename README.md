@@ -8,12 +8,12 @@ This project involves implementation of various models with different algorithms
 
 Machine Learning algorithms used:
 
-Logistic Regression (Scikit-learn)
-Naive Bayes (Scikit-learn)
-Support Vector Machine (Scikit-learn)
-K-Nearest Neighbours (Scikit-learn)
-Decision Tree (Scikit-learn)
-Random Forest (Scikit-learn)
-Artificial Neural Network with 1 Hidden layer (Keras)
+  1. Logistic Regression (Scikit-learn)
+  2. Naive Bayes (Scikit-learn)
+  3. Support Vector Machine (Scikit-learn)
+  4. K-Nearest Neighbours (Scikit-learn)
+  5. Decision Tree (Scikit-learn)
+  6. Random Forest (Scikit-learn)
+  7. Artificial Neural Network with 1 Hidden layer (Keras)
 
 Accuracy achieved: 99% (Random Forest)
